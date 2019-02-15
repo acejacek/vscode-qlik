@@ -2,14 +2,15 @@
 	"name": "qlik",
 	"displayName": "Qlik",
 	"description": "Qlik script support for Visual Studio Code",
-	"version": "0.4.0",
+	"version": "0.4.2-beta",
 	"publisher": "Gimly81",
 	"author": {
 		"name": "Xavier Hahn"
 	},
 	"contributors": [
 		{
-			"name": "Stefan Stoichev"
+			"name": "Stefan Stoichev",
+			"name": "aceJacek"
 		}
 	],
 	"engines": {
